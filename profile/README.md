@@ -15,4 +15,4 @@
 * FINOS Platinum Member and Governing Board
 * Linux Foundation Silver Member
 * OIN 2.0 Member with a seat on the OIN Technical Advisory Committee (TAC), making us the first bank to join this group of technology leaders.
-* [FINOS AI Governance Framework Project](https://github.com/finos/ai-governance-framework) — a collaborative framework helping financial services organisations responsibly onboard, develop, and run AI-based solutions"
+* [FINOS AI Governance Framework Project](https://github.com/finos/ai-governance-framework) — a collaborative framework helping financial services organisations responsibly and safely onboard, develop, and run AI-based solutions"
