@@ -11,3 +11,8 @@
 * In 2025, FS-ISAC published their [Timeline for Post Quantum Cryptographic Migration](https://www.fsisac.com/newsroom/fs-isac-urges-global-coordination-for-migration-to-post-quantum-cryptography-in-financial-services?utm_campaign=23725878-PQC&utm_content=348991661&utm_medium=social&utm_source=linkedin&hss_channel=lcp-152531), detailing the importance of establishing a global transition timeline for the financial sector’s migration.  TD Bank contributed to this important work which is a great example of open science and open collaboration in the security industry.
 * [Backstage](https://github.com/backstage/backstage) is an open source framework for building developer portals - used by thousands of companies in all industries.  TD Bank, with many other companies, contribute to supporting this important project.
 
+### Where we Participate
+* FINOS Platinum Member and Governing Board
+* Linux Foundation Silver Member
+* OIN 2.0 Member with a seat on the OIN Technical Advisory Committee (TAC), making us the first bank to join this group of technology leaders.
+* [FINOS AI Governance Framework Project](https://github.com/finos/ai-governance-framework) — a collaborative framework helping financial services organisations responsibly onboard, develop, and run AI-based solutions"
