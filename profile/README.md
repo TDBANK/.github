@@ -1,7 +1,7 @@
 <img width="673" height="236" alt="image" src="https://github.com/user-attachments/assets/553a61d4-5977-42a5-b4ac-a827a5b2a9be" />
 
 # TD Bank Supports Open Source  
-#### The TD Bank GitHub organisation reflects our belief that the best technology, governance, and safety frameworks are built together — bringing people, ideas, and communities to the table. Here you'll find examples of our engagements in the open source (software and science) community, rooted in our commitment to building financial technology that puts people first.  
+#### The TD Bank GitHub organisation reflects our belief that the best technology, governance, and safety frameworks are built together — bringing people, ideas, and communities to the table. Here you'll find examples of our engagements in the open source (software and science) community, rooted in our commitment to building financial technology that is more simple, more helpful, and more human.
 
 ### Brief overview of TD's Open Source Progress so far
 
