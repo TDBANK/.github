@@ -371,7 +371,6 @@ h3 {
 }
  
 .hero-stats dt {
-  .hero-stats dt {
   font-family: var(--head);
   font-size: clamp(1.1rem, 1.8vw, 1.6rem);
   line-height: 1.15;
