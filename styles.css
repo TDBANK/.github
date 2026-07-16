@@ -371,9 +371,14 @@ h3 {
 }
  
 .hero-stats dt {
+  .hero-stats dt {
   font-family: var(--head);
-  font-size: clamp(1.8rem, 4vw, 3.4rem);
-  line-height: 1;
+  font-size: clamp(1.1rem, 1.8vw, 1.6rem);
+  line-height: 1.15;
+  overflow-wrap: normal;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
  
 .hero-stats dd {
@@ -448,8 +453,12 @@ h3 {
  
 .metric-value {
   font-family: var(--head);
-  font-size: clamp(2.3rem, 5vw, 4.2rem);
-  line-height: 1;
+  font-size: clamp(1.4rem, 2.4vw, 2.15rem);
+  line-height: 1.15;
+  overflow-wrap: normal;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
  
 .metric-label {
